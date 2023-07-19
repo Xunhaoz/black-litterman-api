@@ -1,0 +1,16 @@
+
+{
+  "Q": [-0.20, 0.05, 0.10, 0.15],
+  "P": [
+        [1, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 1, 0],
+        [0, 1, -1, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0.5, 0.5, -0.5, -0.5, 0, 0]
+    ],
+  "note": [
+    "SBUX will drop 20% (absolute)",
+    "MSFT will rise by 5% (absolute)",
+    " GOOG outperforms FB by 10%",
+    "BAC and JPM will outperform T and GE by 15%"
+  ]
+}

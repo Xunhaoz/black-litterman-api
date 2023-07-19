@@ -1,0 +1,791 @@
+[2023-07-19 13:43:10][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 13:43:10][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 13:43:10][INFO]  * Restarting with stat
+[2023-07-19 13:43:10][WARNING]  * Debugger is active!
+[2023-07-19 13:43:10][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 13:43:13][INFO] {'status': '[success]'}
+[2023-07-19 13:43:13][INFO] 127.0.0.1 - - [19/Jul/2023 13:43:13] "GET / HTTP/1.1" 200 -
+[2023-07-19 13:43:19][INFO] {'status': '[success]'}
+[2023-07-19 13:43:19][INFO] 127.0.0.1 - - [19/Jul/2023 13:43:19] "GET / HTTP/1.1" 200 -
+[2023-07-19 13:43:22][INFO] {'status': '[success]'}
+[2023-07-19 13:43:22][INFO] 127.0.0.1 - - [19/Jul/2023 13:43:22] "GET / HTTP/1.1" 200 -
+[2023-07-19 13:43:23][INFO] {'status': '[success]'}
+[2023-07-19 13:43:23][INFO] 127.0.0.1 - - [19/Jul/2023 13:43:23] "GET / HTTP/1.1" 200 -
+[2023-07-19 13:43:23][INFO] {'status': '[success]'}
+[2023-07-19 13:43:23][INFO] 127.0.0.1 - - [19/Jul/2023 13:43:23] "GET / HTTP/1.1" 200 -
+[2023-07-19 13:55:01][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 13:55:01][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 13:55:01][INFO]  * Restarting with stat
+[2023-07-19 13:55:01][WARNING]  * Debugger is active!
+[2023-07-19 13:55:01][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 13:55:03][INFO] 127.0.0.1 - - [19/Jul/2023 13:55:03] "[35m[1mGET /download_stock?stock_name=APPL HTTP/1.1[0m" 500 -
+[2023-07-19 13:55:49][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 13:55:49][INFO]  * Restarting with stat
+[2023-07-19 13:55:50][WARNING]  * Debugger is active!
+[2023-07-19 13:55:50][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 13:55:53][INFO] 127.0.0.1 - - [19/Jul/2023 13:55:53] "[35m[1mGET /download_stock?stockName=APPL HTTP/1.1[0m" 500 -
+[2023-07-19 13:56:54][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 13:56:54][INFO]  * Restarting with stat
+[2023-07-19 13:56:54][WARNING]  * Debugger is active!
+[2023-07-19 13:56:54][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 13:56:59][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 13:56:59][INFO]  * Restarting with stat
+[2023-07-19 13:57:00][WARNING]  * Debugger is active!
+[2023-07-19 13:57:00][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 13:57:01][ERROR] 
+1 Failed download:
+[2023-07-19 13:57:01][ERROR] ['APPL']: Exception('%ticker%: No price data found, symbol may be delisted (1d 1924-08-11 -> 2023-07-19)')
+[2023-07-19 13:57:01][INFO] 127.0.0.1 - - [19/Jul/2023 13:57:01] "GET /download_stock?stockName=APPL HTTP/1.1" 200 -
+[2023-07-19 13:57:46][INFO] 127.0.0.1 - - [19/Jul/2023 13:57:46] "GET /download_stock?stockName=TSM HTTP/1.1" 200 -
+[2023-07-19 14:03:03][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:03:03][INFO]  * Restarting with stat
+[2023-07-19 14:23:22][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 14:23:22][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 14:23:22][INFO]  * Restarting with stat
+[2023-07-19 14:23:22][WARNING]  * Debugger is active!
+[2023-07-19 14:23:22][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:23:26][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:23:26][INFO]  * Restarting with stat
+[2023-07-19 14:23:27][WARNING]  * Debugger is active!
+[2023-07-19 14:23:27][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:23:28][INFO] 127.0.0.1 - - [19/Jul/2023 14:23:28] "GET /download_stock?stockName=^TWII HTTP/1.1" 200 -
+[2023-07-19 14:23:39][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:23:39][INFO]  * Restarting with stat
+[2023-07-19 14:23:40][WARNING]  * Debugger is active!
+[2023-07-19 14:23:40][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:23:58][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:23:58][INFO]  * Restarting with stat
+[2023-07-19 14:23:58][WARNING]  * Debugger is active!
+[2023-07-19 14:23:58][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:26:04][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:26:04][INFO]  * Restarting with stat
+[2023-07-19 14:26:04][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 14:26:04][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 14:26:04][INFO]  * Restarting with stat
+[2023-07-19 14:26:05][WARNING]  * Debugger is active!
+[2023-07-19 14:26:05][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:26:05][WARNING]  * Debugger is active!
+[2023-07-19 14:26:05][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:26:14][INFO] 127.0.0.1 - - [19/Jul/2023 14:26:14] "[35m[1mPOST /concat_stock HTTP/1.1[0m" 500 -
+[2023-07-19 14:26:21][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:26:21][INFO]  * Restarting with stat
+[2023-07-19 14:26:21][WARNING]  * Debugger is active!
+[2023-07-19 14:26:21][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:26:50][INFO] 127.0.0.1 - - [19/Jul/2023 14:26:50] "[35m[1mPOST /concat_stock HTTP/1.1[0m" 500 -
+[2023-07-19 14:27:01][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:27:01][INFO]  * Restarting with stat
+[2023-07-19 14:27:01][WARNING]  * Debugger is active!
+[2023-07-19 14:27:01][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:27:01][INFO] 127.0.0.1 - - [19/Jul/2023 14:27:01] "POST /concat_stock HTTP/1.1" 200 -
+[2023-07-19 14:27:10][INFO] 127.0.0.1 - - [19/Jul/2023 14:27:10] "POST /concat_stock HTTP/1.1" 200 -
+[2023-07-19 14:27:31][INFO] 127.0.0.1 - - [19/Jul/2023 14:27:31] "POST /concat_stock HTTP/1.1" 200 -
+[2023-07-19 14:28:32][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:28:32][INFO]  * Restarting with stat
+[2023-07-19 14:28:32][WARNING]  * Debugger is active!
+[2023-07-19 14:28:32][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:29:36][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:29:36][INFO]  * Restarting with stat
+[2023-07-19 14:29:36][WARNING]  * Debugger is active!
+[2023-07-19 14:29:36][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:29:36][INFO] 127.0.0.1 - - [19/Jul/2023 14:29:36] "POST /concat_stock HTTP/1.1" 200 -
+[2023-07-19 14:30:36][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:30:36][INFO]  * Restarting with stat
+[2023-07-19 14:30:36][WARNING]  * Debugger is active!
+[2023-07-19 14:30:36][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:32:54][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:32:55][INFO]  * Restarting with stat
+[2023-07-19 14:32:55][WARNING]  * Debugger is active!
+[2023-07-19 14:32:55][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:33:36][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:33:36][INFO]  * Restarting with stat
+[2023-07-19 14:33:37][WARNING]  * Debugger is active!
+[2023-07-19 14:33:37][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:33:49][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:33:49][INFO]  * Restarting with stat
+[2023-07-19 14:33:50][WARNING]  * Debugger is active!
+[2023-07-19 14:33:50][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:34:56][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:34:56][INFO]  * Restarting with stat
+[2023-07-19 14:34:56][WARNING]  * Debugger is active!
+[2023-07-19 14:34:56][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:34:59][INFO] 127.0.0.1 - - [19/Jul/2023 14:34:59] "[35m[1mPOST /concat_stock HTTP/1.1[0m" 500 -
+[2023-07-19 14:35:34][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:35:34][INFO]  * Restarting with stat
+[2023-07-19 14:35:35][WARNING]  * Debugger is active!
+[2023-07-19 14:35:35][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:35:35][INFO] 127.0.0.1 - - [19/Jul/2023 14:35:35] "[35m[1mPOST /concat_stock HTTP/1.1[0m" 500 -
+[2023-07-19 14:36:19][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:36:19][INFO]  * Restarting with stat
+[2023-07-19 14:36:19][WARNING]  * Debugger is active!
+[2023-07-19 14:36:19][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:36:20][INFO] 127.0.0.1 - - [19/Jul/2023 14:36:20] "[35m[1mPOST /concat_stock HTTP/1.1[0m" 500 -
+[2023-07-19 14:36:24][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 14:36:24][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 14:36:24][INFO]  * Restarting with stat
+[2023-07-19 14:36:24][WARNING]  * Debugger is active!
+[2023-07-19 14:36:24][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:36:25][INFO] 127.0.0.1 - - [19/Jul/2023 14:36:25] "[35m[1mPOST /concat_stock HTTP/1.1[0m" 500 -
+[2023-07-19 14:37:00][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:37:00][INFO]  * Restarting with stat
+[2023-07-19 14:37:01][WARNING]  * Debugger is active!
+[2023-07-19 14:37:01][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:37:34][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:37:34][INFO]  * Restarting with stat
+[2023-07-19 14:37:35][WARNING]  * Debugger is active!
+[2023-07-19 14:37:35][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:38:13][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 14:38:13][INFO]  * Restarting with stat
+[2023-07-19 14:38:13][WARNING]  * Debugger is active!
+[2023-07-19 14:38:13][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:38:16][INFO] 127.0.0.1 - - [19/Jul/2023 14:38:16] "POST /concat_stock HTTP/1.1" 200 -
+[2023-07-19 14:41:17][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:41:17][INFO]  * Restarting with stat
+[2023-07-19 14:41:18][WARNING]  * Debugger is active!
+[2023-07-19 14:41:18][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:41:18][INFO] 127.0.0.1 - - [19/Jul/2023 14:41:18] "POST /concat_stock HTTP/1.1" 200 -
+[2023-07-19 14:42:19][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:42:19][INFO]  * Restarting with stat
+[2023-07-19 14:42:20][WARNING]  * Debugger is active!
+[2023-07-19 14:42:20][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:42:46][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:42:46][INFO]  * Restarting with stat
+[2023-07-19 14:42:47][WARNING]  * Debugger is active!
+[2023-07-19 14:42:47][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 14:42:47][INFO] 127.0.0.1 - - [19/Jul/2023 14:42:47] "POST /concat_stock HTTP/1.1" 200 -
+[2023-07-19 14:43:53][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 14:43:53][INFO]  * Restarting with stat
+[2023-07-19 14:43:53][WARNING]  * Debugger is active!
+[2023-07-19 14:43:53][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:16:59][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 15:16:59][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 15:16:59][INFO]  * Restarting with stat
+[2023-07-19 15:17:00][WARNING]  * Debugger is active!
+[2023-07-19 15:17:00][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:17:02][INFO] 127.0.0.1 - - [19/Jul/2023 15:17:02] "POST /download_stock HTTP/1.1" 200 -
+[2023-07-19 15:17:53][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:17:53][INFO]  * Restarting with stat
+[2023-07-19 15:17:54][WARNING]  * Debugger is active!
+[2023-07-19 15:17:54][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:18:05][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:18:05][INFO]  * Restarting with stat
+[2023-07-19 15:18:05][WARNING]  * Debugger is active!
+[2023-07-19 15:18:05][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:18:07][INFO] 127.0.0.1 - - [19/Jul/2023 15:18:07] "POST /download_stock HTTP/1.1" 200 -
+[2023-07-19 15:18:18][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:18:18][INFO]  * Restarting with stat
+[2023-07-19 15:18:18][WARNING]  * Debugger is active!
+[2023-07-19 15:18:18][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:18:18][INFO] 127.0.0.1 - - [19/Jul/2023 15:18:18] "POST /download_stock HTTP/1.1" 200 -
+[2023-07-19 15:18:46][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:18:46][INFO]  * Restarting with stat
+[2023-07-19 15:18:46][WARNING]  * Debugger is active!
+[2023-07-19 15:18:46][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:18:49][INFO] 127.0.0.1 - - [19/Jul/2023 15:18:49] "[35m[1mPOST /download_stock HTTP/1.1[0m" 500 -
+[2023-07-19 15:19:26][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:19:26][INFO]  * Restarting with stat
+[2023-07-19 15:19:26][WARNING]  * Debugger is active!
+[2023-07-19 15:19:26][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:19:42][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:19:42][INFO]  * Restarting with stat
+[2023-07-19 15:19:42][WARNING]  * Debugger is active!
+[2023-07-19 15:19:42][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:19:45][INFO] 127.0.0.1 - - [19/Jul/2023 15:19:45] "POST /download_stock HTTP/1.1" 200 -
+[2023-07-19 15:20:29][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:20:29][INFO]  * Restarting with stat
+[2023-07-19 15:20:41][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 15:20:41][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 15:20:41][INFO]  * Restarting with stat
+[2023-07-19 15:20:41][WARNING]  * Debugger is active!
+[2023-07-19 15:20:41][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:20:44][INFO] 127.0.0.1 - - [19/Jul/2023 15:20:44] "POST /download_stock HTTP/1.1" 200 -
+[2023-07-19 15:20:51][INFO] 127.0.0.1 - - [19/Jul/2023 15:20:51] "POST /download_stock HTTP/1.1" 200 -
+[2023-07-19 15:21:50][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:21:50][INFO]  * Restarting with stat
+[2023-07-19 15:21:51][WARNING]  * Debugger is active!
+[2023-07-19 15:21:51][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:23:51][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 15:23:51][INFO]  * Restarting with stat
+[2023-07-19 15:23:52][WARNING]  * Debugger is active!
+[2023-07-19 15:23:52][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:24:02][INFO] 127.0.0.1 - - [19/Jul/2023 15:24:02] "POST /download_stock HTTP/1.1" 200 -
+[2023-07-19 15:24:19][INFO] 127.0.0.1 - - [19/Jul/2023 15:24:19] "[33mPOST /concat_stock HTTP/1.1[0m" 404 -
+[2023-07-19 15:24:32][INFO] 127.0.0.1 - - [19/Jul/2023 15:24:32] "[31m[1mPOST /download_mcap HTTP/1.1[0m" 405 -
+[2023-07-19 15:25:07][INFO] 127.0.0.1 - - [19/Jul/2023 15:25:07] "[31m[1mPOST /download_mcap HTTP/1.1[0m" 405 -
+[2023-07-19 15:25:47][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:25:47][INFO]  * Restarting with stat
+[2023-07-19 15:25:48][WARNING]  * Debugger is active!
+[2023-07-19 15:25:48][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:25:48][INFO] 127.0.0.1 - - [19/Jul/2023 15:25:48] "[31m[1mPOST /download_mcap HTTP/1.1[0m" 405 -
+[2023-07-19 15:26:00][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:26:00][INFO]  * Restarting with stat
+[2023-07-19 15:26:01][WARNING]  * Debugger is active!
+[2023-07-19 15:26:01][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:26:04][INFO] 127.0.0.1 - - [19/Jul/2023 15:26:04] "[35m[1mPOST /download_mcap HTTP/1.1[0m" 500 -
+[2023-07-19 15:26:45][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 15:26:45][INFO]  * Restarting with stat
+[2023-07-19 15:26:46][WARNING]  * Debugger is active!
+[2023-07-19 15:26:46][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:26:47][INFO] 127.0.0.1 - - [19/Jul/2023 15:26:47] "[35m[1mPOST /download_mcap HTTP/1.1[0m" 500 -
+[2023-07-19 15:27:01][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 15:27:01][INFO]  * Restarting with stat
+[2023-07-19 15:27:01][WARNING]  * Debugger is active!
+[2023-07-19 15:27:01][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:27:03][INFO] 127.0.0.1 - - [19/Jul/2023 15:27:03] "[35m[1mPOST /download_mcap HTTP/1.1[0m" 500 -
+[2023-07-19 15:27:18][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 15:27:18][INFO]  * Restarting with stat
+[2023-07-19 15:27:18][WARNING]  * Debugger is active!
+[2023-07-19 15:27:18][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:27:23][INFO] 127.0.0.1 - - [19/Jul/2023 15:27:23] "[35m[1mPOST /download_mcap HTTP/1.1[0m" 500 -
+[2023-07-19 15:27:39][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 15:27:39][INFO]  * Restarting with stat
+[2023-07-19 15:27:40][WARNING]  * Debugger is active!
+[2023-07-19 15:27:40][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:27:42][INFO] 127.0.0.1 - - [19/Jul/2023 15:27:42] "POST /download_mcap HTTP/1.1" 200 -
+[2023-07-19 15:27:49][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 15:27:49][INFO]  * Restarting with stat
+[2023-07-19 15:27:49][WARNING]  * Debugger is active!
+[2023-07-19 15:27:49][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:28:20][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\blackLittermanCore\\process.py', reloading
+[2023-07-19 15:28:20][INFO]  * Restarting with stat
+[2023-07-19 15:28:21][WARNING]  * Debugger is active!
+[2023-07-19 15:28:21][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:28:23][INFO] 127.0.0.1 - - [19/Jul/2023 15:28:23] "POST /download_mcap HTTP/1.1" 200 -
+[2023-07-19 15:28:27][INFO] 127.0.0.1 - - [19/Jul/2023 15:28:27] "POST /download_stock HTTP/1.1" 200 -
+[2023-07-19 15:29:07][INFO] 127.0.0.1 - - [19/Jul/2023 15:29:07] "POST /download_mcap HTTP/1.1" 200 -
+[2023-07-19 15:30:24][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:30:24][INFO]  * Restarting with stat
+[2023-07-19 15:30:24][WARNING]  * Debugger is active!
+[2023-07-19 15:30:24][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:30:49][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 15:30:49][INFO]  * Restarting with stat
+[2023-07-19 15:30:49][WARNING]  * Debugger is active!
+[2023-07-19 15:30:49][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:31:12][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 15:31:12][INFO]  * Restarting with stat
+[2023-07-19 15:31:12][WARNING]  * Debugger is active!
+[2023-07-19 15:31:12][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:31:14][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 15:31:14][INFO]  * Restarting with stat
+[2023-07-19 15:31:15][WARNING]  * Debugger is active!
+[2023-07-19 15:31:15][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:31:25][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 15:31:25][INFO]  * Restarting with stat
+[2023-07-19 15:31:26][WARNING]  * Debugger is active!
+[2023-07-19 15:31:26][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:34:25][INFO] 127.0.0.1 - - [19/Jul/2023 15:34:25] "[31m[1mPOST /download_stock HTTP/1.1[0m" 415 -
+[2023-07-19 15:34:36][INFO] 127.0.0.1 - - [19/Jul/2023 15:34:36] "POST /download_stock HTTP/1.1" 200 -
+[2023-07-19 15:34:55][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:34:55][INFO]  * Restarting with stat
+[2023-07-19 15:34:55][WARNING]  * Debugger is active!
+[2023-07-19 15:34:55][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:37:04][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:37:04][INFO]  * Restarting with stat
+[2023-07-19 15:37:05][WARNING]  * Debugger is active!
+[2023-07-19 15:37:05][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:37:25][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:37:25][INFO]  * Restarting with stat
+[2023-07-19 15:50:17][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 15:50:17][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 15:50:17][INFO]  * Restarting with stat
+[2023-07-19 15:50:17][WARNING]  * Debugger is active!
+[2023-07-19 15:50:17][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:50:19][INFO] 127.0.0.1 - - [19/Jul/2023 15:50:19] "[31m[1mGET /cal_market_prior HTTP/1.1[0m" 405 -
+[2023-07-19 15:50:28][INFO] 127.0.0.1 - - [19/Jul/2023 15:50:28] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 15:51:09][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:51:09][INFO]  * Restarting with stat
+[2023-07-19 15:51:09][WARNING]  * Debugger is active!
+[2023-07-19 15:51:09][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:51:11][INFO] 127.0.0.1 - - [19/Jul/2023 15:51:11] "[35m[1mPOST /cal_market_prior HTTP/1.1[0m" 500 -
+[2023-07-19 15:51:31][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:51:31][INFO]  * Restarting with stat
+[2023-07-19 15:51:31][WARNING]  * Debugger is active!
+[2023-07-19 15:51:31][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:51:33][INFO] 127.0.0.1 - - [19/Jul/2023 15:51:33] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 15:53:39][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 15:53:39][INFO]  * Restarting with stat
+[2023-07-19 15:53:39][WARNING]  * Debugger is active!
+[2023-07-19 15:53:39][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:53:43][INFO] 127.0.0.1 - - [19/Jul/2023 15:53:43] "POST /download_mcap HTTP/1.1" 200 -
+[2023-07-19 15:54:09][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 15:54:09][INFO]  * Restarting with stat
+[2023-07-19 15:54:10][WARNING]  * Debugger is active!
+[2023-07-19 15:54:10][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:54:13][INFO] 127.0.0.1 - - [19/Jul/2023 15:54:13] "POST /download_mcap HTTP/1.1" 200 -
+[2023-07-19 15:54:52][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:54:52][INFO]  * Restarting with stat
+[2023-07-19 15:56:18][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 15:56:18][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 15:56:18][INFO]  * Restarting with stat
+[2023-07-19 15:56:18][WARNING]  * Debugger is active!
+[2023-07-19 15:56:18][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:56:25][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 15:56:25][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 15:56:25][INFO]  * Restarting with stat
+[2023-07-19 15:56:25][WARNING]  * Debugger is active!
+[2023-07-19 15:56:25][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:56:28][INFO] 127.0.0.1 - - [19/Jul/2023 15:56:28] "[35m[1mPOST /cal_market_prior HTTP/1.1[0m" 500 -
+[2023-07-19 15:57:18][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:57:18][INFO]  * Restarting with stat
+[2023-07-19 15:57:18][WARNING]  * Debugger is active!
+[2023-07-19 15:57:18][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:57:19][INFO] 127.0.0.1 - - [19/Jul/2023 15:57:19] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 15:58:41][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 15:58:41][INFO]  * Restarting with stat
+[2023-07-19 15:58:41][WARNING]  * Debugger is active!
+[2023-07-19 15:58:41][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 15:58:43][INFO] 127.0.0.1 - - [19/Jul/2023 15:58:43] "[35m[1mPOST /cal_market_prior HTTP/1.1[0m" 500 -
+[2023-07-19 15:58:45][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 15:58:45][INFO]  * Restarting with stat
+[2023-07-19 15:58:45][WARNING]  * Debugger is active!
+[2023-07-19 15:58:45][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:00:58][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 16:00:58][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 16:00:58][INFO]  * Restarting with stat
+[2023-07-19 16:00:58][WARNING]  * Debugger is active!
+[2023-07-19 16:00:58][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:01:02][INFO] 127.0.0.1 - - [19/Jul/2023 16:01:02] "[35m[1mPOST /cal_market_prior HTTP/1.1[0m" 500 -
+[2023-07-19 16:01:30][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 16:01:30][INFO]  * Restarting with stat
+[2023-07-19 16:01:31][WARNING]  * Debugger is active!
+[2023-07-19 16:01:31][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:01:31][INFO] 127.0.0.1 - - [19/Jul/2023 16:01:31] "[35m[1mPOST /cal_market_prior HTTP/1.1[0m" 500 -
+[2023-07-19 16:02:04][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 16:02:04][INFO]  * Restarting with stat
+[2023-07-19 16:02:04][WARNING]  * Debugger is active!
+[2023-07-19 16:02:04][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:02:05][INFO] 127.0.0.1 - - [19/Jul/2023 16:02:05] "[35m[1mPOST /cal_market_prior HTTP/1.1[0m" 500 -
+[2023-07-19 16:03:37][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 16:03:37][INFO]  * Restarting with stat
+[2023-07-19 16:03:38][WARNING]  * Debugger is active!
+[2023-07-19 16:03:38][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:03:38][INFO] 127.0.0.1 - - [19/Jul/2023 16:03:38] "[35m[1mPOST /cal_market_prior HTTP/1.1[0m" 500 -
+[2023-07-19 16:04:39][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 16:04:40][INFO]  * Restarting with stat
+[2023-07-19 16:04:40][WARNING]  * Debugger is active!
+[2023-07-19 16:04:40][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:04:41][INFO] 127.0.0.1 - - [19/Jul/2023 16:04:41] "[35m[1mPOST /cal_market_prior HTTP/1.1[0m" 500 -
+[2023-07-19 16:05:19][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 16:05:20][INFO]  * Restarting with stat
+[2023-07-19 16:05:20][WARNING]  * Debugger is active!
+[2023-07-19 16:05:20][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:05:47][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 16:05:47][INFO]  * Restarting with stat
+[2023-07-19 16:05:48][WARNING]  * Debugger is active!
+[2023-07-19 16:05:48][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:05:49][INFO] 127.0.0.1 - - [19/Jul/2023 16:05:49] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 16:06:38][INFO] 127.0.0.1 - - [19/Jul/2023 16:06:38] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 16:07:06][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 16:07:07][INFO]  * Restarting with stat
+[2023-07-19 16:07:07][WARNING]  * Debugger is active!
+[2023-07-19 16:07:07][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:07:09][INFO] 127.0.0.1 - - [19/Jul/2023 16:07:09] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 16:08:06][INFO] 127.0.0.1 - - [19/Jul/2023 16:08:06] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 16:08:22][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 16:08:22][INFO]  * Restarting with stat
+[2023-07-19 16:08:23][WARNING]  * Debugger is active!
+[2023-07-19 16:08:23][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:08:23][INFO] 127.0.0.1 - - [19/Jul/2023 16:08:23] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 16:09:28][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 16:09:28][INFO]  * Restarting with stat
+[2023-07-19 16:09:29][WARNING]  * Debugger is active!
+[2023-07-19 16:09:29][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:09:29][INFO] 127.0.0.1 - - [19/Jul/2023 16:09:29] "[35m[1mPOST /cal_market_prior HTTP/1.1[0m" 500 -
+[2023-07-19 16:09:37][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 16:09:37][INFO]  * Restarting with stat
+[2023-07-19 16:09:37][WARNING]  * Debugger is active!
+[2023-07-19 16:09:37][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 16:09:38][INFO] 127.0.0.1 - - [19/Jul/2023 16:09:38] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 17:03:22][INFO] 127.0.0.1 - - [19/Jul/2023 17:03:22] "POST /cal_market_prior HTTP/1.1" 200 -
+[2023-07-19 17:08:44][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 17:08:44][INFO]  * Restarting with stat
+[2023-07-19 17:08:45][WARNING]  * Debugger is active!
+[2023-07-19 17:08:45][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 17:10:06][INFO] 127.0.0.1 - - [19/Jul/2023 17:10:06] "POST /view_confident_template HTTP/1.1" 200 -
+[2023-07-19 17:10:25][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 17:10:25][INFO]  * Restarting with stat
+[2023-07-19 17:10:26][WARNING]  * Debugger is active!
+[2023-07-19 17:10:26][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 17:10:26][INFO] 127.0.0.1 - - [19/Jul/2023 17:10:26] "POST /view_confident_template HTTP/1.1" 200 -
+[2023-07-19 17:10:40][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 17:10:40][INFO]  * Restarting with stat
+[2023-07-19 17:10:40][WARNING]  * Debugger is active!
+[2023-07-19 17:10:40][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 17:10:40][INFO] 127.0.0.1 - - [19/Jul/2023 17:10:40] "POST /view_confident_template HTTP/1.1" 200 -
+[2023-07-19 17:11:33][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 17:11:33][INFO]  * Restarting with stat
+[2023-07-19 17:11:33][WARNING]  * Debugger is active!
+[2023-07-19 17:11:33][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 17:13:37][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 17:13:37][INFO]  * Restarting with stat
+[2023-07-19 17:13:38][WARNING]  * Debugger is active!
+[2023-07-19 17:13:38][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 17:13:38][INFO] 127.0.0.1 - - [19/Jul/2023 17:13:38] "POST /view_confident_template HTTP/1.1" 200 -
+[2023-07-19 17:21:41][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 17:21:41][INFO]  * Restarting with stat
+[2023-07-19 17:21:42][WARNING]  * Debugger is active!
+[2023-07-19 17:21:42][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 17:21:45][INFO] 127.0.0.1 - - [19/Jul/2023 17:21:45] "POST /view_confident_template HTTP/1.1" 200 -
+[2023-07-19 17:21:52][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 17:21:52][INFO]  * Restarting with stat
+[2023-07-19 17:21:52][WARNING]  * Debugger is active!
+[2023-07-19 17:21:52][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 17:21:53][INFO] 127.0.0.1 - - [19/Jul/2023 17:21:53] "POST /view_confident_template HTTP/1.1" 200 -
+[2023-07-19 19:58:53][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 19:58:53][INFO]  * Restarting with stat
+[2023-07-19 19:58:54][WARNING]  * Debugger is active!
+[2023-07-19 19:58:54][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:18:10][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:18:10][INFO]  * Restarting with stat
+[2023-07-19 20:18:10][WARNING]  * Debugger is active!
+[2023-07-19 20:18:10][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:24:26][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\test.py', reloading
+[2023-07-19 20:24:26][INFO]  * Restarting with stat
+[2023-07-19 20:24:26][WARNING]  * Debugger is active!
+[2023-07-19 20:24:26][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:24:32][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\test.py', reloading
+[2023-07-19 20:24:32][INFO]  * Restarting with stat
+[2023-07-19 20:24:32][WARNING]  * Debugger is active!
+[2023-07-19 20:24:32][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:25:03][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\test.py', reloading
+[2023-07-19 20:25:03][INFO]  * Restarting with stat
+[2023-07-19 20:25:03][WARNING]  * Debugger is active!
+[2023-07-19 20:25:03][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:30:02][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 20:30:02][INFO]  * Restarting with stat
+[2023-07-19 20:30:03][WARNING]  * Debugger is active!
+[2023-07-19 20:30:03][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:32:58][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:32:58][INFO]  * Restarting with stat
+[2023-07-19 20:32:59][WARNING]  * Debugger is active!
+[2023-07-19 20:32:59][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:33:01][INFO] 127.0.0.1 - - [19/Jul/2023 20:33:01] "[35m[1mPOST /view_confident_template HTTP/1.1[0m" 500 -
+[2023-07-19 20:33:36][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:33:36][INFO]  * Restarting with stat
+[2023-07-19 20:33:37][WARNING]  * Debugger is active!
+[2023-07-19 20:33:37][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:33:37][INFO] 127.0.0.1 - - [19/Jul/2023 20:33:37] "[35m[1mPOST /view_confident_template HTTP/1.1[0m" 500 -
+[2023-07-19 20:33:46][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:33:46][INFO]  * Restarting with stat
+[2023-07-19 20:33:46][WARNING]  * Debugger is active!
+[2023-07-19 20:33:46][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:33:46][INFO] 127.0.0.1 - - [19/Jul/2023 20:33:46] "[35m[1mPOST /view_confident_template HTTP/1.1[0m" 500 -
+[2023-07-19 20:34:02][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:34:02][INFO]  * Restarting with stat
+[2023-07-19 20:34:03][WARNING]  * Debugger is active!
+[2023-07-19 20:34:03][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:34:03][INFO] 127.0.0.1 - - [19/Jul/2023 20:34:03] "POST /view_confident_template HTTP/1.1" 200 -
+[2023-07-19 20:34:13][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:34:13][INFO]  * Restarting with stat
+[2023-07-19 20:34:14][WARNING]  * Debugger is active!
+[2023-07-19 20:34:14][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:34:14][INFO] 127.0.0.1 - - [19/Jul/2023 20:34:14] "POST /view_confident_template HTTP/1.1" 200 -
+[2023-07-19 20:34:41][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:34:41][INFO]  * Restarting with stat
+[2023-07-19 20:34:42][WARNING]  * Debugger is active!
+[2023-07-19 20:34:42][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:34:42][INFO] 127.0.0.1 - - [19/Jul/2023 20:34:42] "POST /view_confident_template HTTP/1.1" 200 -
+[2023-07-19 20:39:10][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:39:11][INFO]  * Restarting with stat
+[2023-07-19 20:39:11][WARNING]  * Debugger is active!
+[2023-07-19 20:39:11][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:40:33][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:40:33][INFO]  * Restarting with stat
+[2023-07-19 20:40:34][WARNING]  * Debugger is active!
+[2023-07-19 20:40:34][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:42:45][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:42:45][INFO]  * Restarting with stat
+[2023-07-19 20:42:45][WARNING]  * Debugger is active!
+[2023-07-19 20:42:45][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:42:50][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:42:50][INFO]  * Restarting with stat
+[2023-07-19 20:42:50][WARNING]  * Debugger is active!
+[2023-07-19 20:42:50][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:42:57][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:42:57][INFO]  * Restarting with stat
+[2023-07-19 20:42:57][WARNING]  * Debugger is active!
+[2023-07-19 20:42:57][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:48:08][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:48:08][INFO]  * Restarting with stat
+[2023-07-19 20:48:09][WARNING]  * Debugger is active!
+[2023-07-19 20:48:09][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:49:12][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:49:12][INFO]  * Restarting with stat
+[2023-07-19 20:49:13][WARNING]  * Debugger is active!
+[2023-07-19 20:49:13][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:52:44][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:52:44][INFO]  * Restarting with stat
+[2023-07-19 20:52:45][WARNING]  * Debugger is active!
+[2023-07-19 20:52:45][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:54:18][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:54:18][INFO]  * Restarting with stat
+[2023-07-19 20:54:18][WARNING]  * Debugger is active!
+[2023-07-19 20:54:18][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:56:23][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:56:23][INFO]  * Restarting with stat
+[2023-07-19 20:56:24][WARNING]  * Debugger is active!
+[2023-07-19 20:56:24][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:56:37][INFO] 127.0.0.1 - - [19/Jul/2023 20:56:37] "[35m[1mPOST /cal_black_litterman HTTP/1.1[0m" 500 -
+[2023-07-19 20:58:12][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:58:12][INFO]  * Restarting with stat
+[2023-07-19 20:58:12][WARNING]  * Debugger is active!
+[2023-07-19 20:58:12][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:58:12][INFO] 127.0.0.1 - - [19/Jul/2023 20:58:12] "[35m[1mPOST /cal_black_litterman HTTP/1.1[0m" 500 -
+[2023-07-19 20:58:43][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 20:58:43][INFO]  * Restarting with stat
+[2023-07-19 20:58:43][WARNING]  * Debugger is active!
+[2023-07-19 20:58:43][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 20:58:44][INFO] 127.0.0.1 - - [19/Jul/2023 20:58:44] "POST /cal_black_litterman HTTP/1.1" 200 -
+[2023-07-19 21:00:14][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 21:00:14][INFO]  * Restarting with stat
+[2023-07-19 21:00:15][WARNING]  * Debugger is active!
+[2023-07-19 21:00:15][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:02:14][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 21:02:14][INFO]  * Restarting with stat
+[2023-07-19 21:02:15][WARNING]  * Debugger is active!
+[2023-07-19 21:02:15][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:03:11][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 21:03:11][INFO]  * Restarting with stat
+[2023-07-19 21:03:12][WARNING]  * Debugger is active!
+[2023-07-19 21:03:12][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:04:13][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 21:04:13][INFO]  * Restarting with stat
+[2023-07-19 21:04:13][WARNING]  * Debugger is active!
+[2023-07-19 21:04:13][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:05:15][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 21:05:15][INFO]  * Restarting with stat
+[2023-07-19 21:25:33][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 21:25:33][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 21:25:33][INFO]  * Restarting with stat
+[2023-07-19 21:25:33][WARNING]  * Debugger is active!
+[2023-07-19 21:25:33][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:25:35][INFO] 127.0.0.1 - - [19/Jul/2023 21:25:35] "[35m[1mPOST /profolio_allocation HTTP/1.1[0m" 500 -
+[2023-07-19 21:27:09][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 21:27:09][INFO]  * Restarting with stat
+[2023-07-19 21:27:10][WARNING]  * Debugger is active!
+[2023-07-19 21:27:10][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:27:11][INFO] 127.0.0.1 - - [19/Jul/2023 21:27:11] "[35m[1mPOST /profolio_allocation HTTP/1.1[0m" 500 -
+[2023-07-19 21:27:42][INFO] 127.0.0.1 - - [19/Jul/2023 21:27:42] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 21:28:24][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 21:28:24][INFO]  * Restarting with stat
+[2023-07-19 21:28:25][WARNING]  * Debugger is active!
+[2023-07-19 21:28:25][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:28:28][INFO] 127.0.0.1 - - [19/Jul/2023 21:28:28] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 21:36:02][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 21:36:03][INFO]  * Restarting with stat
+[2023-07-19 21:36:03][WARNING]  * Debugger is active!
+[2023-07-19 21:36:03][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:37:10][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 21:37:10][INFO]  * Restarting with stat
+[2023-07-19 21:37:11][WARNING]  * Debugger is active!
+[2023-07-19 21:37:11][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:37:56][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 21:37:56][INFO]  * Restarting with stat
+[2023-07-19 21:37:57][WARNING]  * Debugger is active!
+[2023-07-19 21:37:57][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:37:58][INFO] 127.0.0.1 - - [19/Jul/2023 21:37:58] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 21:38:28][INFO] 127.0.0.1 - - [19/Jul/2023 21:38:28] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 21:38:45][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 21:38:45][INFO]  * Restarting with stat
+[2023-07-19 21:38:46][WARNING]  * Debugger is active!
+[2023-07-19 21:38:46][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:38:46][INFO] 127.0.0.1 - - [19/Jul/2023 21:38:46] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 21:42:28][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 21:42:28][INFO]  * Restarting with stat
+[2023-07-19 21:42:29][WARNING]  * Debugger is active!
+[2023-07-19 21:42:29][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:42:30][INFO] 127.0.0.1 - - [19/Jul/2023 21:42:30] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 21:42:45][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 21:42:45][INFO]  * Restarting with stat
+[2023-07-19 21:42:46][WARNING]  * Debugger is active!
+[2023-07-19 21:42:46][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:49:58][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 21:49:58][INFO]  * Restarting with stat
+[2023-07-19 21:49:59][WARNING]  * Debugger is active!
+[2023-07-19 21:49:59][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:51:36][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 21:51:36][INFO]  * Restarting with stat
+[2023-07-19 21:51:37][WARNING]  * Debugger is active!
+[2023-07-19 21:51:37][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:52:20][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 21:52:21][INFO]  * Restarting with stat
+[2023-07-19 21:52:21][WARNING]  * Debugger is active!
+[2023-07-19 21:52:21][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:52:56][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 21:52:56][INFO]  * Restarting with stat
+[2023-07-19 21:52:56][WARNING]  * Debugger is active!
+[2023-07-19 21:52:56][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:58:46][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 21:58:46][INFO]  * Restarting with stat
+[2023-07-19 21:58:47][WARNING]  * Debugger is active!
+[2023-07-19 21:58:47][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:59:36][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 21:59:36][INFO]  * Restarting with stat
+[2023-07-19 21:59:37][WARNING]  * Debugger is active!
+[2023-07-19 21:59:37][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 21:59:39][INFO] 127.0.0.1 - - [19/Jul/2023 21:59:39] "[35m[1mPOST /profolio_allocation HTTP/1.1[0m" 500 -
+[2023-07-19 22:00:46][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 22:00:46][INFO]  * Restarting with stat
+[2023-07-19 22:00:46][WARNING]  * Debugger is active!
+[2023-07-19 22:00:46][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:00:47][INFO] 127.0.0.1 - - [19/Jul/2023 22:00:47] "[35m[1mPOST /profolio_allocation HTTP/1.1[0m" 500 -
+[2023-07-19 22:00:59][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 22:00:59][INFO]  * Restarting with stat
+[2023-07-19 22:01:00][WARNING]  * Debugger is active!
+[2023-07-19 22:01:00][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:01:00][INFO] 127.0.0.1 - - [19/Jul/2023 22:01:00] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:01:13][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 22:01:14][INFO]  * Restarting with stat
+[2023-07-19 22:01:14][WARNING]  * Debugger is active!
+[2023-07-19 22:01:14][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:01:16][INFO] 127.0.0.1 - - [19/Jul/2023 22:01:16] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:01:17][INFO] 127.0.0.1 - - [19/Jul/2023 22:01:17] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:01:22][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 22:01:22][INFO]  * Restarting with stat
+[2023-07-19 22:01:23][WARNING]  * Debugger is active!
+[2023-07-19 22:01:23][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:01:23][INFO] 127.0.0.1 - - [19/Jul/2023 22:01:23] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:01:36][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 22:01:36][INFO]  * Restarting with stat
+[2023-07-19 22:01:37][WARNING]  * Debugger is active!
+[2023-07-19 22:01:37][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:01:37][INFO] 127.0.0.1 - - [19/Jul/2023 22:01:37] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:01:44][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 22:01:45][INFO]  * Restarting with stat
+[2023-07-19 22:01:45][WARNING]  * Debugger is active!
+[2023-07-19 22:01:45][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:03:12][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 22:03:12][INFO]  * Restarting with stat
+[2023-07-19 22:03:13][WARNING]  * Debugger is active!
+[2023-07-19 22:03:13][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:05:20][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 22:05:20][INFO]  * Restarting with stat
+[2023-07-19 22:05:20][WARNING]  * Debugger is active!
+[2023-07-19 22:05:20][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:05:32][INFO] 127.0.0.1 - - [19/Jul/2023 22:05:32] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:05:52][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 22:05:52][INFO]  * Restarting with stat
+[2023-07-19 22:05:53][WARNING]  * Debugger is active!
+[2023-07-19 22:05:53][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:05:53][INFO] 127.0.0.1 - - [19/Jul/2023 22:05:53] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:05:55][INFO] 127.0.0.1 - - [19/Jul/2023 22:05:55] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:06:38][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 22:06:38][INFO]  * Restarting with stat
+[2023-07-19 22:06:39][WARNING]  * Debugger is active!
+[2023-07-19 22:06:39][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:06:39][INFO] 127.0.0.1 - - [19/Jul/2023 22:06:39] "[35m[1mPOST /profolio_allocation HTTP/1.1[0m" 500 -
+[2023-07-19 22:06:50][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 22:06:50][INFO]  * Restarting with stat
+[2023-07-19 22:06:50][WARNING]  * Debugger is active!
+[2023-07-19 22:06:50][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:06:50][INFO] 127.0.0.1 - - [19/Jul/2023 22:06:50] "[35m[1mPOST /profolio_allocation HTTP/1.1[0m" 500 -
+[2023-07-19 22:07:45][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 22:07:45][INFO]  * Restarting with stat
+[2023-07-19 22:07:45][WARNING]  * Debugger is active!
+[2023-07-19 22:07:45][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:07:46][INFO] 127.0.0.1 - - [19/Jul/2023 22:07:46] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:08:32][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 22:08:32][INFO]  * Restarting with stat
+[2023-07-19 22:08:33][WARNING]  * Debugger is active!
+[2023-07-19 22:08:33][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:08:34][INFO] 127.0.0.1 - - [19/Jul/2023 22:08:34] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:10:12][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 22:10:12][INFO]  * Restarting with stat
+[2023-07-19 22:10:13][WARNING]  * Debugger is active!
+[2023-07-19 22:10:13][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:10:19][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 22:10:19][INFO]  * Restarting with stat
+[2023-07-19 22:10:19][WARNING]  * Debugger is active!
+[2023-07-19 22:10:19][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:10:20][INFO] 127.0.0.1 - - [19/Jul/2023 22:10:20] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:11:25][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\core.py', reloading
+[2023-07-19 22:11:26][INFO]  * Restarting with stat
+[2023-07-19 22:13:13][INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+[2023-07-19 22:13:13][INFO] [33mPress CTRL+C to quit[0m
+[2023-07-19 22:13:13][INFO]  * Restarting with stat
+[2023-07-19 22:13:14][WARNING]  * Debugger is active!
+[2023-07-19 22:13:14][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:13:15][INFO] 127.0.0.1 - - [19/Jul/2023 22:13:15] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:13:31][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 22:13:31][INFO]  * Restarting with stat
+[2023-07-19 22:13:32][WARNING]  * Debugger is active!
+[2023-07-19 22:13:32][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:13:34][INFO] 127.0.0.1 - - [19/Jul/2023 22:13:34] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:13:36][INFO] 127.0.0.1 - - [19/Jul/2023 22:13:36] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:13:40][INFO] 127.0.0.1 - - [19/Jul/2023 22:13:40] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:13:46][INFO] 127.0.0.1 - - [19/Jul/2023 22:13:46] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:17:17][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 22:17:17][INFO]  * Restarting with stat
+[2023-07-19 22:17:18][WARNING]  * Debugger is active!
+[2023-07-19 22:17:18][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:18:19][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 22:18:19][INFO]  * Restarting with stat
+[2023-07-19 22:18:20][WARNING]  * Debugger is active!
+[2023-07-19 22:18:20][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:20:51][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 22:20:51][INFO]  * Restarting with stat
+[2023-07-19 22:20:51][WARNING]  * Debugger is active!
+[2023-07-19 22:20:51][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:21:28][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 22:21:28][INFO]  * Restarting with stat
+[2023-07-19 22:21:29][WARNING]  * Debugger is active!
+[2023-07-19 22:21:29][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:21:52][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 22:21:52][INFO]  * Restarting with stat
+[2023-07-19 22:21:52][WARNING]  * Debugger is active!
+[2023-07-19 22:21:52][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:21:53][INFO] 127.0.0.1 - - [19/Jul/2023 22:21:53] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:22:14][INFO] 127.0.0.1 - - [19/Jul/2023 22:22:14] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:24:33][INFO] 127.0.0.1 - - [19/Jul/2023 22:24:33] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:24:58][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\app.py', reloading
+[2023-07-19 22:24:58][INFO]  * Restarting with stat
+[2023-07-19 22:24:58][WARNING]  * Debugger is active!
+[2023-07-19 22:24:58][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:24:59][INFO] 127.0.0.1 - - [19/Jul/2023 22:24:59] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:25:09][INFO]  * Detected change in 'C:\\Users\\Xunhaoz\\Desktop\\black-litterman-api\\black_litterman\\process.py', reloading
+[2023-07-19 22:25:09][INFO]  * Restarting with stat
+[2023-07-19 22:25:10][WARNING]  * Debugger is active!
+[2023-07-19 22:25:10][INFO]  * Debugger PIN: 465-601-432
+[2023-07-19 22:25:10][INFO] 127.0.0.1 - - [19/Jul/2023 22:25:10] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:25:37][INFO] 127.0.0.1 - - [19/Jul/2023 22:25:37] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:25:39][INFO] 127.0.0.1 - - [19/Jul/2023 22:25:39] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:25:41][INFO] 127.0.0.1 - - [19/Jul/2023 22:25:41] "POST /profolio_allocation HTTP/1.1" 200 -
+[2023-07-19 22:25:43][INFO] 127.0.0.1 - - [19/Jul/2023 22:25:43] "POST /profolio_allocation HTTP/1.1" 200 -

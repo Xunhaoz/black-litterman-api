@@ -3,7 +3,7 @@
 ## End-point: usage_1
 ### Method: POST
 >```
->http://localhost:5000/profolio_allocation
+>{{url}}/profolio_allocation
 >```
 ### Body formdata
 
@@ -37,7 +37,7 @@
 ## End-point: usage_2
 ### Method: POST
 >```
->http://localhost:5000/profolio_allocation
+>{{url}}/profolio_allocation
 >```
 ### Body formdata
 
@@ -73,7 +73,7 @@
 ## End-point: usage_3
 ### Method: POST
 >```
->http://localhost:5000/profolio_allocation
+>{{url}}/profolio_allocation
 >```
 ### Body formdata
 
@@ -108,7 +108,7 @@
 ## End-point: usage_4
 ### Method: POST
 >```
->http://localhost:5000/profolio_allocation
+>{{url}}/profolio_allocation
 >```
 ### Body formdata
 

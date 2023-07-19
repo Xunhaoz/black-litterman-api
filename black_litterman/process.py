@@ -1,31 +1,6 @@
-import yfinance as yf
 import pandas as pd
 import numpy as np
 import json
-
-
-def dict_to_csv(data: dict) -> str:
-    for k, v in data.items():
-        data[k] = [v]
-    data = pd.DataFrame(data)
-    data = data.to_csv(index=False)
-    return data
-
-
-def download_stock(tickers: list) -> str:
-    stock_data = yf.download(tickers, period="max")
-    stock_data = stock_data["Adj Close"]
-    stock_data = stock_data.to_csv()
-    return stock_data
-
-
-def download_mcap(tickers: list) -> dict:
-    mcaps = {}
-    for t in tickers:
-        stock = yf.Ticker(t)
-        mcaps[t] = stock.info["marketCap"]
-
-    return mcaps
 
 
 def process(prices=None, market_prices=None, mcaps=None, absolute_views=None,
